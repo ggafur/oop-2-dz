@@ -1,0 +1,18 @@
+ <artifactId>flunc_2.13</artifactId>
+            <version>0.1.0</version>
+        </dependency>
+        <dependency>
+            <groupId>jis-command</groupId>
+            <artifactId>jis-command</artifactId>
+            <version>1.0.1</version>
+        </dependency>
+    </dependencies>
+    <repositories>
+        <repository>
+            <id>clojars</id>
+            <name>Clojars</name>
+            <url>https://repo.clojars.org/</url>
+        </repository>
+    </repositories>
+
+</project>
